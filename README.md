@@ -3,7 +3,7 @@
 *DigiSchool* is a Digital Platform for School Education.
 
 
-[![Logo](./assets/logo2.png)](https://dipamsen.github.io/DigiSchool-Web/)  
+[![Logo](https://dipamsen.github.io/DigiSchool-Web/logo2.png)](https://dipamsen.github.io/DigiSchool-Web/)  
 
 
 
