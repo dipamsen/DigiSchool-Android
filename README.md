@@ -1,18 +1,18 @@
-# DigiSchool: Web
+# DigiSchool: Android App
 
 *DigiSchool* is a Digital Platform for School Education.
 
 
-[![Logo](https://dipamsen.github.io/DigiSchool-Web/logo2.png)](https://dipamsen.github.io/DigiSchool-Web/)  
+![Logo](https://dipamsen.github.io/DigiSchool-Web/logo2.png)
 
 
 
-> *This repo is for the Website for DigiSchool. [Click Here](https://github.com/dipamsen/DigiSchool-App) for the Android App.*
+> *This repo is for the Android App of DigiSchool. [Click Here](https://github.com/dipamsen/DigiSchool-Web) for the Website.*
 >
-> - **Android App: [Github Repo]( https://github.com/dipamsen/DigiSchool-App ) | [APK Link](https://drive.google.com/drive/folders/16F14zIZ6pQgZ-JsOBIgZbXapbkh-F0ey?usp=sharing)** 
+> - **Website: [Github Repo]( https://github.com/dipamsen/DigiSchool-Web ) | [Website](https://dipamsen.github.io/DigiSchool-Web)** 
 
 
-- The website is deployed on: https://dipamsen.github.io/DigiSchool-Web/
+- The apk file is available for download: [Click Here](https://drive.google.com/drive/folders/16F14zIZ6pQgZ-JsOBIgZbXapbkh-F0ey?usp=sharing)
 
 ---
 ### What is *DigiSchool*?   
