@@ -1,3 +1,7 @@
+# This Repo is no longer maintained.
+See dipamsen/DigiSchool-App
+
+---
 # DigiSchool: Android App
 
 *DigiSchool* is a Digital Platform for School Education.
