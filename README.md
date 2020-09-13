@@ -1,5 +1,5 @@
 # This Repo is no longer maintained.
-See dipamsen/DigiSchool-App
+See [dipamsen/DigiSchool-App](https://github.com/dipamsen/DigiSchool-App)
 
 ---
 # DigiSchool: Android App
